@@ -1,0 +1,13 @@
+.button {
+	background: transparent;
+	border: none;
+	padding: 0;
+}
+
+a.btn{
+	cursor: pointer;
+}
+
+.left-panel__navigation a {
+	cursor: pointer;
+}
